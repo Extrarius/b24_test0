@@ -39,16 +39,15 @@ docs/               # Скриншоты
 - Сохранить базовый URL (формат):  
   `https://<ваш_портал>.bitrix24.ru/rest/<USER_ID>/<TOKEN>/`
 
-<img src="./docs/b24_1.jpg" alt="Логи тестов" width="370">
+<img src="./docs/b24_1.JPG" width="770">
 
 ### 2) Запуск
 
 - Создать тест‑данные (5 контактов + 15 сделок):
-  `docs/b24_2.jpg`
-  Ответ — JSON со списком созданных ID.
+  <img src="./docs/b24_2.JPG" alt="JSON со списком созданных ID" width="770">
 
 - Выдать JSON по контактам (ФИО, телефон, почта, кол‑во сделок, их ID):
-  `docs/b24_3.jpg`
+  <img src="./docs/b24_3.JPG" width="770">
 
 ---
 
@@ -63,18 +62,17 @@ docs/               # Скриншоты
 3. Добавьте **свойства**:  
    - `COST` — тип **Число** (Название «Стоимость»). 
    - `FEATURE` — тип **Строка** (Название «Особенность»).
-`docs/infoblok_1.jpg`
-`docs/infoblok_2.jpg`
-`docs/infoblok_3.jpg`
-`docs/infoblok_4.jpg`
-`docs/infoblok_5.jpg`
-`docs/infoblok_6.jpg`
-`docs/infoblok_7.jpg`
-`docs/infoblok_8.jpg`
-`docs/infoblok_9.jpg`
-`docs/infoblok_10.jpg`
-`docs/infoblok_11.jpg`
-
+<img src="./docs/infoblok_1.JPG" width="770">
+<img src="./docs/infoblok_2.JPG" width="770">
+<img src="./docs/infoblok_3.JPG" width="770">
+<img src="./docs/infoblok_4.JPG" width="770">
+<img src="./docs/infoblok_5.JPG" width="770">
+<img src="./docs/infoblok_6.JPG" width="770">
+<img src="./docs/infoblok_7.JPG" width="770">
+<img src="./docs/infoblok_8.JPG" width="770">
+<img src="./docs/infoblok_9.JPG" width="770">
+<img src="./docs/infoblok_10.JPG" width="770">
+<img src="./docs/infoblok_11.JPG" width="770">
 
 ### 4) Что умеет компонент
 
