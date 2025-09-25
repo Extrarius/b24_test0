@@ -39,7 +39,7 @@ docs/               # Скриншоты
 - Сохранить базовый URL (формат):  
   `https://<ваш_портал>.bitrix24.ru/rest/<USER_ID>/<TOKEN>/`
 
-**Скриншоты:** `docs/b24_1.jpg`
+<img src="./docs/b24_1.jpg" alt="Логи тестов" width="370">
 
 ### 2) Запуск
 
